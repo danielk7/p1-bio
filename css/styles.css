@@ -3,8 +3,20 @@ img {
 	width: 400px
 }
 h1 {
-	color: orange:;
-	box-shadow: 10px 10px 10px 10px; color: black
+	color: orange;
+	font-family: 'Balthazar', serif;
+	letter-spacing: 4px;
+	text-transform: uppercase;
+}
+
+p {
+	line-height: 24px;
+}
+
+h3 {
+	color: #96CF6E;
+	font-family: 'Balthazar', serif;
+	font-weight: bold;
 }
 
 /* Show Grid */
