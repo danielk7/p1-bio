@@ -1,6 +1,12 @@
 /* Your Website Styles */
 body {
-	background: white;
+background-image:url("../img/bg.gif");
+}
+
+img
+{
+content:icon;
+icon:url(../img/icon.ico);
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:100);
@@ -39,7 +45,7 @@ nav {
   margin:0;
   padding:0;
   width:105%;
-  height:70px;
+  height:90px;
   
   text-align:center;
   
@@ -82,19 +88,16 @@ nav ul li a:hover {
 }
 
 img {
-	width: 300px
+	width: 247px
 }
 
-img { url("../img/portrait2.jpg");
-width:  330px
-}
 
 h3 {
 	color: orange;
 	font-family: 'Balthazar', serif;
 	letter-spacing: 4px;
 	text-transform: uppercase;
-	text-align: center;
+	text-align: left;
 }
 
 p {
@@ -102,9 +105,12 @@ p {
 }
 
 h3 {
-	color: #96CF6E;
+	color: #48484A;
+	font-size: 28px;
 	font-family: 'Balthazar', serif;
 	font-weight: bold;
+	margin-top: 40px;
+
 }
 
 /* Show Grid */
