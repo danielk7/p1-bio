@@ -79,7 +79,9 @@ nav ul li a:hover {
 }
 
 img {
-	width: 243px;
+	height: 300px;
+	width: auto;
+	margin: auto;
 }
 
 
