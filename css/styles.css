@@ -1,6 +1,6 @@
 /* Your Website Styles */
 body {
-background-image:url("../img/bg.gif");
+background-image:url("../img/bg.png");
 }
 
 @import url(http://fonts.googleapis.com/css?family=Roboto:100);
@@ -79,7 +79,7 @@ nav ul li a:hover {
 }
 
 img {
-	width: 243px;
+	width: 240px;
 }
 
 
