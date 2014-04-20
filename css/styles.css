@@ -1,16 +1,17 @@
 /* Your Website Styles */
 body {
-	background: url("../img/bg.png");
+	background: white;
 }
 
 img {
-	width: 400px
+	width: 300px
 }
 h1 {
 	color: orange;
 	font-family: 'Balthazar', serif;
 	letter-spacing: 4px;
 	text-transform: uppercase;
+	text-align: center;
 }
 
 p {
