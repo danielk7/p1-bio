@@ -79,7 +79,7 @@ nav ul li a:hover {
 }
 
 img {
-	width: 243px;
+	width: 247px;
 	margin: auto;
 }
 
@@ -189,13 +189,14 @@ section{
 
 
 .social li a{
+	font-size: 25px;
 	display: inline-block;
 	float: left;
 	width: 40px;
 	height: 40px;
 	margin-right: 3rem;
 	text-align: center;
-	padding-top: 13px;
+	padding-top: 6px;
 	
 	-webkit-border-radius:20px;
 	-moz-border-radius:20px;
